@@ -1,14 +1,19 @@
 # Midterm IoT Project
 
-Name:  
+Name:  Shreya Shankar
 
-Date:
+Date: October 10, 2017
 
-## Project: "Brand Name" or Device Name
+## Project: Forget Me Not
 
 ### Conceptual Description
 
-/// Replace with a description of the ***critical / conceptual dimensions of your project***, with specific reference to the key issues it engages.  These should intersect with the issues that have been explored in the readings and discussions during the first half of class:  eWaste, data security/ownership in relation to corporate cloud infrastructures; critical making; surveillance and privacy, etc. ** *How does your project engage with these issues beyond mere instrumentality?* ** ///
+/// This project explores the relationship users have with technology through reducing the burden people have when attempting to remember their schedules. The premise of this project is simple, it is a LED light that turns on when an assignment is due on a day. The user needs statement is as follows: 
+
+Shreya is a student who needs a way to keep up with her daily assignments 
+because she values organization and structure.
+
+This device will be used to take the burden of remembering crucial assignments off of a person's mind so that the user will be able to tell as soon as he or she wakes up whether or not there is a remaining assignment due that has not yet been complete. In order to use technology to enhance people's daily lives, our product will solve students' problem of having to remember a packed schedule and multiple assignments by giving them an easy outlet for their memory. However, this product is not meant to replace the already existing calendar framework - it is only meant to serve as a method of remembering to check the calender. 
 
 ### Form
 
