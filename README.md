@@ -42,4 +42,4 @@ The full code is seen here: [photon.ino](photon.ino)
 
 **Wiring Diagram**
 
-![Wiring Diagram](WiringDiagram.png)
+![Wiring Diagram](IOTProj.png)
