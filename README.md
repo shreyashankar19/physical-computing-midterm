@@ -29,18 +29,13 @@ My design enclosure is made to show only the LED light so it is easy for the use
 
 ### Technical Details
 //   
-Here you should give an overview of the technical operation of your device, including:
-* A wiring diagram
-* list of hardware used
-* Explanation of your
-* Link to code   
 
-//
+List of hardware used: LED, Photon Redboard, Wires, 330 Ohm Resistor 
 
 You can include code snippets here:
 
 ```
-Particle.subscribe("Execute", messageParse, MY_DEVICES);
+Particle.subscribe("Upcoming_Event10_4", flickerled)
 ```
 
 but also link to your project's full code in this repository:  [photon.ino](photon.ino)
