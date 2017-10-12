@@ -8,7 +8,7 @@ Date: October 10, 2017
 
 ### Conceptual Description
 
-/// This project explores the relationship users have with technology through reducing the burden people have when attempting to remember their schedules. The premise of this project is simple, it is a LED light that turns on when an assignment is due on a day. The user needs statement is as follows: 
+This project explores the relationship users have with technology through reducing the burden people have when attempting to remember their schedules. The premise of this project is simple, it is a LED light that turns on when an assignment is due on a day. The user needs statement is as follows: 
 
 Shreya is a student who needs a way to keep up with her daily assignments 
 because she values organization and structure.
@@ -17,8 +17,7 @@ This device will be used to take the burden of remembering crucial assignments o
 
 ### Form
 
-/// Your project should be embodied in a ***physical form*** that reflects, embodies, and/or amplifies those your project's main concepts and ideas.
-Explain your design choices here and include images that document your project's material embodiment. ///
+My design enclosure is made to show only the LED light so it is easy for the user to tell when the light subscribes. 
 
 **Finished Enclosure:**
 
