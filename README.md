@@ -25,7 +25,7 @@ My design enclosure is made to show only the LED light so it is easy for the use
 
 **Electronics Exposed:**
 
-![Enclosure with electronics exposed](exposed_enclosure.jpg)
+![Enclosure with electronics exposed](IMG_1062.JPG)
 
 ### Technical Details
 //   
