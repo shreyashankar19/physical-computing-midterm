@@ -15,6 +15,8 @@ because she values organization and structure.
 
 This device will be used to take the burden of remembering crucial assignments off of a person's mind so that the user will be able to tell as soon as he or she wakes up whether or not there is a remaining assignment due that has not yet been complete. In order to use technology to enhance people's daily lives, our product will solve students' problem of having to remember a packed schedule and multiple assignments by giving them an easy outlet for their memory. However, this product is not meant to replace the already existing calendar framework - it is only meant to serve as a method of remembering to check the calender. 
 
+A way of furthering this project is to add a physical component, perhaps using a servo. The servo would then physically indicate whether the assignment has been done or not. 
+
 ### Form
 
 My design enclosure is made to show only the LED light so it is easy for the user to tell when the light subscribes. 
