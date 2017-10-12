@@ -21,7 +21,7 @@ My design enclosure is made to show only the LED light so it is easy for the use
 
 **Finished Enclosure:**
 
-![Finished Enclosure](finished_enclosure.jpg)
+![Finished Enclosure](IMG_1062.JPG)
 
 **Electronics Exposed:**
 
