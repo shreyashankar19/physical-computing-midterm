@@ -32,15 +32,13 @@ My design enclosure is made to show only the LED light so it is easy for the use
 ### Technical Details
 //   
 
-List of hardware used: LED, Photon Redboard, Wires, 330 Ohm Resistor 
-
-You can include code snippets here:
+The hardware used includes: LED, Photon Redboard, Wires, 330 Ohm Resistor. The following line is a code snippet of the particle subscribing to the IFTTT cloud. The name of the event is "Upcoming_Event10_4". 
 
 ```
 Particle.subscribe("Upcoming_Event10_4", flickerled)
 ```
 
-but also link to your project's full code in this repository:  [photon.ino](photon.ino)
+The full code is seen here: [photon.ino](photon.ino)
 
 **Wiring Diagram**
 
